@@ -5,3 +5,5 @@ https://www.datafountain.cn/competitions/466/datasets
 https://github.com/shyoulala/CCF_BDCI_2020_DIDI_rank1_solution/tree/master/code
 
 - 数据下载地址
+链接：https://pan.baidu.com/s/1hIkDNm63ItxPgg44108y4g 
+提取码：1234
