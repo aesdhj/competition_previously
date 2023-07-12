@@ -1,2 +1,2 @@
 # competition_previously
-开源比赛详细注解
+热门比赛开源代码详细注解
