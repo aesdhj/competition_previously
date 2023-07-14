@@ -1,5 +1,5 @@
 # competition_previously
-热门比赛开源代码详细注解
+热门比赛开源代码详细注解，对源代码略有删减和整理
 
 - ccf_bdci_2020_didi
 
