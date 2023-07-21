@@ -24,3 +24,15 @@ https://github.com/bettenW/Tencent2020_Rank1st
 -- 数据下载地址
 链接：https://pan.baidu.com/s/1gkmeNJnoxWe7ulF1maGKLQ 
 提取码：1234
+#
+- kdd_cup_2020
+
+-- KDD Cup 2020 Debiasing
+https://tianchi.aliyun.com/competition/entrance/231785/information
+
+-- 开源代码地址
+https://github.com/aister2020/KDDCUP_2020_Debiasing_1st_Place
+
+-- 数据下载地址
+链接：https://pan.baidu.com/s/1_ZibkZxlKG9jFSC8eFXOtA 
+提取码：1234
