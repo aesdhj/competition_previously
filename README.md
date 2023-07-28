@@ -36,15 +36,3 @@ https://github.com/aister2020/KDDCUP_2020_Debiasing_1st_Place
 -- 数据下载地址
 链接：https://pan.baidu.com/s/1_ZibkZxlKG9jFSC8eFXOtA 
 提取码：1234
-#
-- huawei_digix2021_track1
-
--- 2021 DIGIX全球校园AI算法精英大赛赛题一
-https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/201621215957378831
-
--- 开源代码地址
-https://github.com/Q-Qing/huawei_digix2021_track1
-
--- 数据下载地址
-链接：https://pan.baidu.com/s/1jGA61OWmIiCiBFNq2D2Lkw 
-提取码：1234
