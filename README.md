@@ -15,3 +15,8 @@
 -- [KDD Cup 2020 Debiasing](https://tianchi.aliyun.com/competition/entrance/231785/information)
 -- [开源代码地址](https://github.com/aister2020/KDDCUP_2020_Debiasing_1st_Place)
 -- [数据下载地址](https://pan.baidu.com/s/1_ZibkZxlKG9jFSC8eFXOtA )提取码：1234
+#
+- [otto_recommender_2022](https://github.com/aesdhj/competition_previously/tree/main/otto_recommender_2022)
+-- [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
+-- [开源代码地址](https://github.com/makotu1208/Otto-kaggle-solution-makotupart)
+-- [数据下载地址](https://www.kaggle.com/competitions/otto-recommender-system/data)
