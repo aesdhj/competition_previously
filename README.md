@@ -20,3 +20,8 @@
 -- [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 -- [开源代码地址](https://github.com/makotu1208/Otto-kaggle-solution-makotupart)
 -- [数据下载地址](https://www.kaggle.com/competitions/otto-recommender-system/data)
+#
+- [hm_recommender_2022](https://github.com/aesdhj/competition_previously/tree/main/hm_recommender_2022)
+-- [H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)
+-- [开源代码地址](https://github.com/ZonW/HM-Personalized-Fashion-Recommender)
+-- [数据下载地址](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data)
